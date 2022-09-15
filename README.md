@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Technical Business Analyst at UnitedHealth Group.
-- 🌱 I’m currently learning HTML, CSS, & JavaScript with 100Devs.
+- 🌱 I’m currently learning HTML, CSS, & JavaScript with 100Devs as well as delving deeper into SQL with work!
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with JavaScript & Python.
 - 💬 Ask me about Data & Business Analysis!
