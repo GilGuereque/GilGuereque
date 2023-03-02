@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Technical Business Systems Analyst at LVVWD and previously at UnitedHealth Group.
-- 🌱 I am also currently learning HTML, CSS, & JavaScript with the #100Devs bootcamp, as well as delving deeper into SQL and DevOps with my work!
+- 🌱 I am also currently learning HTML, CSS, & JavaScript with the #100Devs bootcamp, as well as delving deeper into SQL, Agile/Scrum methodologies, and DevOps with my career!
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with JavaScript & C#.
 - 💬 Ask me about Data & Business Analysis!
