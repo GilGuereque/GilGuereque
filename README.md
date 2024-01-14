@@ -8,7 +8,7 @@
 - 📫 How to reach me: gguereque326@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love gaming, built my own PC, and am recently getting more into my fitness and my overall health/wellbeing. I have started taking Muay Thai classes as well as frequenting the gym.
-
+![Visitor Count](https://profile-counter.glitch.me/{GilGuereque}/count.svg)
 <!--
 **GilGuereque/GilGuereque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
