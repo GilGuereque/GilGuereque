@@ -7,7 +7,7 @@
 - 💬 Ask me about Data & Business Analysis, Agile, Scrum, & SQL!
 - 📫 How to reach me: gguereque326@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love gaming, built my own PC, and am recently getting more into my fitness and my overall health/wellbeing. I have started taking Muay Thai classes as well as frequenting the gym, and paying closer attention to my nutrition. <br>
+- ⚡ Fun fact: I love gaming, built my own PC, and am recently getting more into my fitness and my overall health/wellbeing. I have started taking Muay Thai & Brazilian Jiu-Jitsu classes as well as frequenting the gym, and paying closer attention to my nutrition. <br>
 
 <td style="vertical-align: top;">
       <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilguereque&layout=compact&theme=dark" alt="gilguereque" />
