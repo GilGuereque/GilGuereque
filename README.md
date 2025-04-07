@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an Associate Applications Developer & Product owner at LVVWD, previously at UnitedHealth Group, Scientific Games & Caesars Entertaiment.
-- 🌱 I am also currently learning HTML, CSS, JavaScript & C# (.NET), as well as delving deeper into SQL, Agile & Scrum methodologies, and DevOps within my current role in my career! However, I am looking to learn more and delve deeper into Software Development and the C# programming language in general.
+- 🌱 I am also currently learning HTML, CSS, JavaScript & C# (.NET), as well as delving deeper into SQL, and Agile & Scrum methodologies within my current role in my career! However, I am looking to learn more and dive deeper into Software Development and the C# programming language in general.
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with JavaScript, C# & Python.
 - 💬 Ask me about Data & Business Analysis, Agile, Scrum, & SQL!
