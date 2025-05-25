@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with JavaScript, C# & Python.
 - 💬 Ask me about Data & Business Analysis, Agile, Scrum, & SQL!
 - 📫 How to reach me: gguereque326@gmail.com.
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love gaming, built my own PC, and am recently getting more into my fitness and my overall health/wellbeing. I have started taking Muay Thai & Brazilian Jiu-Jitsu classes as well as frequenting the gym regularly, and paying closer attention to my nutrition. <br>
 
 <td style="vertical-align: top;">
